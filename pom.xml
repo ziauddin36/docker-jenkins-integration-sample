@@ -8,7 +8,7 @@
     <artifactId>docker-jenkins-integration-sample</artifactId>
     <version>1.0-SNAPSHOT</version>
 <build>
-    <finalname>docker-jenkins-integration-sample</finalname>
+    <finalName>docker-jenkins-integration-sample</finalName>
 </build>
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
