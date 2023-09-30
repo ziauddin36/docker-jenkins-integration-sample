@@ -9,7 +9,15 @@
     <version>1.0-SNAPSHOT</version>
 <build>
     <finalName>docker-jenkins-integration-sample</finalName>
+<servers>
+    <server>
+      <id>docker-hub</id> <!-- This ID is used to reference the server -->
+      <username>zia136</username>
+      <password>Zia@82978</password>
+    </server>
+  </servers>
 </build>
+         
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
